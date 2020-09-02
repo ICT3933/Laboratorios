@@ -23,15 +23,16 @@ pip3 install pandas
 
 1. Instalación de Geopandas
     1. macOS
+    
 ```sh
 Brew install spatialindex
 pip3 install geopandas
 Pip3 install descartes
 ```
 
-    1. Windows
+   1. Windows
 
-Entrar en: [https://www.lfd.uci.edu/~gohlke/pythonlibs/] y descargar:
+Entrar en [este link](https://www.lfd.uci.edu/~gohlke/pythonlibs/) y descargar:
 - GDAL
 - Fiona
 - Pyproj
