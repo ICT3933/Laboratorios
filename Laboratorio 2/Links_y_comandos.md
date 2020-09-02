@@ -5,7 +5,7 @@
 
 ## Comandos
 
-1. Instalación de Matplotlib
+### 1. Instalación de Matplotlib
 ```sh
 pip install matplotlib
 ```
@@ -13,7 +13,7 @@ pip install matplotlib
 pip3 install matplotlib
 ```
 
-1. Instalación de Pandas
+### 1. Instalación de Pandas
 ```sh
 pip install pandas
 ```
@@ -21,8 +21,9 @@ pip install pandas
 pip3 install pandas
 ```
 
-1. Instalación de Geopandas
-  1. macOS
+### 1. Instalación de Geopandas
+
+*1. macOS*
     
 ```sh
 Brew install spatialindex
@@ -30,7 +31,7 @@ pip3 install geopandas
 Pip3 install descartes
 ```
 
-  1. Windows
+*1. Windows*
 
 Entrar en [este link](https://www.lfd.uci.edu/~gohlke/pythonlibs/) y descargar:
 - GDAL
