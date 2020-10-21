@@ -15,7 +15,7 @@ Materiales necesarios para realizar los laboratorios del curso Economía y Model
 | Mie 30 de septiembre  14:00 | Laboratorio 6       | Canvas     | [Link](https://youtu.be/VkGz2oVmQKs)|
 | Mie 7 de octubre 14:00      | Laboratorio 7       | Canvas     | [Link](https://youtu.be/0tk0pDxiPWU)|
 | Mie 14 de octubre 14:00     | Sesión de consultas | Zoom       |                                     |
-| Mie 28 de octubre 14:00     | Laboratorio 8       | Canvas     |                                     |
+| Mie 28 de octubre 14:00     | Laboratorio 8       | Canvas     | [Link](https://youtu.be/5cVgNQ06kDA)|
 | Mie 4 de noviembre 14:00    | Laboratorio 9       | Canvas     |                                     |
 | Mie 11 de noviembre 14:00   | Sesión de consultas | Zoom       |                                     |
 | Mie 18 de noviembre 14:00   | Sesión de consultas | Zoom       |                                     |
